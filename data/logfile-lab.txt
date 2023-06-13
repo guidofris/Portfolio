@@ -1,0 +1,156 @@
+2022-09-07 09:34:41: ACTION[Main]: World at [/home/dries/linuscraft/serverfiles/myworld]
+2022-09-07 09:34:41: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:30000.
+2022-09-07 09:43:53: ACTION[Server]: linus [192.168.0.11] joins game.
+2022-09-07 09:43:53: ACTION[Server]: linus joins game. List of players: linus
+2022-09-07 09:44:39: ACTION[Server]: linus digs default:jungletree at (-224,12,216)
+2022-09-07 09:45:02: ACTION[Server]: linus digs default:jungletree at (-225,12,217)
+2022-09-07 09:45:06: ACTION[Server]: linus digs default:jungletree at (-225,13,216)
+2022-09-07 09:45:10: ACTION[Server]: linus digs default:jungletree at (-225,13,215)
+2022-09-07 09:45:17: ACTION[Server]: linus digs default:jungletree at (-225,12,215)
+2022-09-07 09:45:22: ACTION[Server]: linus digs default:jungletree at (-225,12,216)
+2022-09-07 09:45:47: ACTION[Server]: linus digs default:jungletree at (-227,13,217)
+2022-09-07 09:46:26: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-225.32,11.6704,214.417) (id=3, hp=1), damage=0
+2022-09-07 09:46:27: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-224.737,11.6734,215.896) (id=2, hp=1), damage=0
+2022-09-07 09:46:30: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-225.623,12.6662,216.075) (id=4, hp=1), damage=0
+2022-09-07 09:46:33: ACTION[Server]: linus digs default:jungletree at (-226,12,216)
+2022-09-07 09:46:52: ACTION[Server]: linus digs default:jungletree at (-227,12,217)
+2022-09-07 09:46:56: ACTION[Server]: linus digs default:jungletree at (-227,13,216)
+2022-09-07 09:47:00: ACTION[Server]: linus digs default:jungletree at (-227,12,216)
+2022-09-07 09:47:21: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:23: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:24: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:25: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:26: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:28: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:29: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:30: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:30: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:30: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:30: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:47:36: ACTION[Server]: linus places node default:junglewood at (-221,12,209)
+2022-09-07 09:47:37: ACTION[Server]: linus places node default:junglewood at (-221,13,209)
+2022-09-07 09:47:38: ACTION[Server]: linus places node default:junglewood at (-221,12,208)
+2022-09-07 09:47:39: ACTION[Server]: linus places node default:junglewood at (-221,13,208)
+2022-09-07 09:47:41: ACTION[Server]: linus places node default:junglewood at (-221,12,207)
+2022-09-07 09:47:42: ACTION[Server]: linus places node default:junglewood at (-221,13,207)
+2022-09-07 09:47:46: ACTION[Server]: linus digs default:dry_dirt_with_dry_grass at (-220,12,211)
+2022-09-07 09:47:47: ACTION[Server]: linus digs default:dry_dirt_with_dry_grass at (-219,12,211)
+2022-09-07 09:47:49: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-219.342,11.6677,210.78) (id=7, hp=1), damage=0
+2022-09-07 09:47:50: ACTION[Server]: linus digs default:dry_dirt_with_dry_grass at (-219,12,210)
+2022-09-07 09:47:51: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-219.449,11.6734,210.276) (id=8, hp=1), damage=0
+2022-09-07 09:47:54: ACTION[Server]: linus places node default:dry_dirt at (-221,12,211)
+2022-09-07 09:47:55: ACTION[Server]: linus places node default:dry_dirt at (-221,13,211)
+2022-09-07 09:47:58: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-221.06,12.6662,211.722) (id=9, hp=1), damage=0
+2022-09-07 09:47:59: ACTION[Server]: linus places node default:dry_dirt at (-221,14,211)
+2022-09-07 09:48:01: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-221.773,11.7045,206.922) (id=5, hp=1), damage=0
+2022-09-07 09:48:06: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-224.869,10.7045,208.227) (id=10, hp=1), damage=0
+2022-09-07 09:48:10: ACTION[Server]: linus places node default:junglewood at (-221,14,210)
+2022-09-07 09:48:12: ACTION[Server]: linus places node default:junglewood at (-221,14,209)
+2022-09-07 09:48:18: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-221.771,11.7035,209.937) (id=11, hp=1), damage=0
+2022-09-07 09:48:20: ACTION[Server]: linus places node default:junglewood at (-220,13,212)
+2022-09-07 09:48:20: ACTION[Server]: linus places node default:junglewood at (-219,13,212)
+2022-09-07 09:48:21: ACTION[Server]: linus places node default:junglewood at (-220,14,212)
+2022-09-07 09:48:22: ACTION[Server]: linus places node default:junglewood at (-219,14,212)
+2022-09-07 09:48:23: ACTION[Server]: linus places node default:junglewood at (-218,13,212)
+2022-09-07 09:48:23: ACTION[Server]: linus places node default:junglewood at (-218,14,212)
+2022-09-07 09:48:25: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-216.936,12.7004,210.979) (id=12, hp=1), damage=0
+2022-09-07 09:48:26: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-216.558,12.7004,210.229) (id=13, hp=1), damage=0
+2022-09-07 09:48:27: ACTION[Server]: linus places node default:junglewood at (-218,13,211)
+2022-09-07 09:48:27: ACTION[Server]: linus places node default:junglewood at (-218,14,211)
+2022-09-07 09:48:28: ACTION[Server]: linus places node default:junglewood at (-218,13,210)
+2022-09-07 09:48:29: ACTION[Server]: linus places node default:junglewood at (-218,14,210)
+2022-09-07 09:48:31: ACTION[Server]: linus places node default:junglewood at (-220,12,207)
+2022-09-07 09:48:38: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-220.237,12.6974,206.579) (id=14, hp=1), damage=0
+2022-09-07 09:48:39: ACTION[Server]: player linus (id=1, hp=20) punched LuaEntitySAO at (-219.237,11.6974,206.31) (id=15, hp=1), damage=0
+2022-09-07 09:48:48: ACTION[Server]: linus places node default:junglewood at (-219,12,207)
+2022-09-07 09:48:49: ACTION[Server]: linus places node default:junglewood at (-218,12,207)
+2022-09-07 09:48:50: ACTION[Server]: linus places node default:junglewood at (-218,13,209)
+2022-09-07 09:48:50: ACTION[Server]: linus places node default:junglewood at (-218,12,208)
+2022-09-07 09:48:51: ACTION[Server]: linus places node default:junglewood at (-218,13,208)
+2022-09-07 09:48:52: ACTION[Server]: linus places node default:junglewood at (-218,14,209)
+2022-09-07 09:48:52: ACTION[Server]: linus activates default:junglewood
+2022-09-07 09:48:53: ACTION[Server]: linus places node default:junglewood at (-218,14,208)
+2022-09-07 09:48:58: ACTION[Server]: linus places node default:junglewood at (-218,14,207)
+2022-09-07 09:48:59: ACTION[Server]: linus places node default:junglewood at (-219,14,207)
+2022-09-07 09:48:59: ACTION[Server]: linus places node default:junglewood at (-220,14,207)
+2022-09-07 09:49:00: ACTION[Server]: linus places node default:junglewood at (-221,14,207)
+2022-09-07 09:49:02: ACTION[Server]: linus activates default:junglewood
+2022-09-07 09:49:03: ACTION[Server]: linus places node default:junglewood at (-222,13,208)
+2022-09-07 09:49:03: ACTION[Server]: linus places node default:junglewood at (-221,14,208)
+2022-09-07 09:49:06: ACTION[Server]: linus digs default:junglewood at (-222,13,208)
+2022-09-07 09:49:09: ACTION[Server]: linus places node default:junglewood at (-219,14,208)
+2022-09-07 09:49:09: ACTION[Server]: linus places node default:junglewood at (-220,14,208)
+2022-09-07 09:49:10: ACTION[Server]: linus places node default:junglewood at (-220,14,209)
+2022-09-07 09:49:10: ACTION[Server]: linus places node default:junglewood at (-219,14,209)
+2022-09-07 09:49:11: ACTION[Server]: linus places node default:junglewood at (-220,14,210)
+2022-09-07 09:49:12: ACTION[Server]: linus places node default:junglewood at (-219,14,210)
+2022-09-07 09:49:13: ACTION[Server]: linus places node default:junglewood at (-220,14,211)
+2022-09-07 09:49:14: ACTION[Server]: linus places node default:junglewood at (-219,14,211)
+2022-09-07 09:49:32: ACTION[Server]: linus digs default:jungletree at (-225,11,215)
+2022-09-07 09:49:39: ACTION[Server]: linus digs default:jungletree at (-225,11,216)
+2022-09-07 09:49:43: ACTION[Server]: linus digs default:jungletree at (-225,11,217)
+2022-09-07 09:49:50: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:49:50: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:49:50: ACTION[Server]: player linus crafts default:junglewood 4
+2022-09-07 09:49:54: ACTION[Server]: player linus crafts doors:door_wood
+2022-09-07 09:50:04: ACTION[Server]: linus leaves game. List of players:
+2022-09-07 09:50:27: ACTION[Server]: scumbag44 [192.168.0.11] joins game.
+2022-09-07 09:50:27: ACTION[Server]: scumbag44 joins game. List of players: scumbag44
+2022-09-07 09:50:37: ACTION[Server]: scumbag44 digs default:acacia_bush_leaves at (-207,15,204)
+2022-09-07 09:50:37: ACTION[Server]: scumbag44 digs default:acacia_bush_leaves at (-207,14,204)
+2022-09-07 09:50:38: ACTION[Server]: scumbag44 digs default:acacia_bush_leaves at (-207,15,205)
+2022-09-07 09:50:39: ACTION[Server]: scumbag44 digs default:acacia_bush_leaves at (-207,14,205)
+2022-09-07 09:50:41: ACTION[Server]: scumbag44 digs default:acacia_bush_leaves at (-213,14,205)
+2022-09-07 09:50:46: ACTION[Server]: scumbag44 digs default:junglewood at (-218,12,207)
+2022-09-07 09:50:49: ACTION[Server]: scumbag44 digs default:junglewood at (-219,12,207)
+2022-09-07 09:50:51: ACTION[Server]: scumbag44 digs default:junglewood at (-220,12,207)
+2022-09-07 09:50:54: ACTION[Server]: scumbag44 digs default:junglewood at (-221,12,207)
+2022-09-07 09:50:57: ACTION[Server]: scumbag44 digs doors:door_wood_a at (-221,12,210)
+2022-09-07 09:51:00: ACTION[Server]: scumbag44 digs default:dry_dirt at (-221,12,211)
+2022-09-07 09:51:01: ACTION[Server]: scumbag44 digs default:dry_dirt at (-221,13,211)
+2022-09-07 09:51:04: ACTION[Server]: scumbag44 digs default:junglewood at (-220,13,212)
+2022-09-07 09:51:07: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,211)
+2022-09-07 09:51:11: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,211)
+2022-09-07 09:51:15: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,212)
+2022-09-07 09:51:17: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,212)
+2022-09-07 09:51:20: ACTION[Server]: scumbag44 digs default:junglewood at (-219,13,212)
+2022-09-07 09:51:22: ACTION[Server]: scumbag44 digs default:junglewood at (-218,13,211)
+2022-09-07 09:51:25: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,211)
+2022-09-07 09:51:27: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,212)
+2022-09-07 09:51:30: ACTION[Server]: scumbag44 digs default:junglewood at (-218,13,212)
+2022-09-07 09:51:32: ACTION[Server]: scumbag44 digs default:junglewood at (-218,13,210)
+2022-09-07 09:51:34: ACTION[Server]: scumbag44 digs default:junglewood at (-218,13,209)
+2022-09-07 09:51:37: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,210)
+2022-09-07 09:51:39: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,210)
+2022-09-07 09:51:41: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,209)
+2022-09-07 09:51:44: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,208)
+2022-09-07 09:51:46: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,209)
+2022-09-07 09:51:49: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,208)
+2022-09-07 09:51:51: ACTION[Server]: scumbag44 digs default:junglewood at (-219,14,207)
+2022-09-07 09:51:53: ACTION[Server]: scumbag44 digs default:junglewood at (-218,13,208)
+2022-09-07 09:51:56: ACTION[Server]: scumbag44 digs default:junglewood at (-218,14,207)
+2022-09-07 09:51:58: ACTION[Server]: scumbag44 digs default:junglewood at (-218,12,208)
+2022-09-07 09:52:03: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,208)
+2022-09-07 09:52:06: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,207)
+2022-09-07 09:52:08: ACTION[Server]: scumbag44 digs default:junglewood at (-221,14,207)
+2022-09-07 09:52:11: ACTION[Server]: scumbag44 digs default:junglewood at (-221,14,208)
+2022-09-07 09:52:13: ACTION[Server]: scumbag44 digs default:junglewood at (-221,13,207)
+2022-09-07 09:52:15: ACTION[Server]: scumbag44 digs default:junglewood at (-221,13,208)
+2022-09-07 09:52:18: ACTION[Server]: scumbag44 digs default:junglewood at (-221,14,209)
+2022-09-07 09:52:21: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,209)
+2022-09-07 09:52:23: ACTION[Server]: scumbag44 digs default:junglewood at (-221,13,209)
+2022-09-07 09:52:26: ACTION[Server]: scumbag44 digs default:junglewood at (-221,12,208)
+2022-09-07 09:52:28: ACTION[Server]: scumbag44 digs default:junglewood at (-221,12,209)
+2022-09-07 09:52:31: ACTION[Server]: scumbag44 digs default:junglewood at (-220,14,210)
+2022-09-07 09:52:33: ACTION[Server]: scumbag44 digs default:junglewood at (-221,14,210)
+2022-09-07 09:52:34: ACTION[Server]: scumbag44 digs default:dry_dirt at (-221,14,211)
+2022-09-07 09:53:10: ACTION[Server]: scumbag44 damaged by 3 hp at (-130.27,19.642,223.948)
+2022-09-07 09:53:47: ACTION[Server]: scumbag44 damaged by 5 hp at (-107.567,-7.029,230.847)
+2022-09-07 09:54:03: ACTION[Server]: scumbag44 leaves game. List of players:
+2022-09-07 09:54:23: ACTION[Server]: linus [192.168.0.11] joins game.
+2022-09-07 09:54:23: ACTION[Server]: linus joins game. List of players: linus
+2022-09-07 09:54:28: ACTION[Server]: linus digs default:dry_dirt_with_dry_grass at (-221,12,212)
+2022-09-07 09:54:47: ACTION[Server]: CHAT: <linus> where is my base??
+2022-09-07 09:55:25: ACTION[Server]: linus leaves game. List of players:
+2022-09-07 09:55:29: [Main]: INFO: signal_handler(): Ctrl-C pressed, shutting down.
+2022-09-07 09:55:29: ACTION[Main]: Server: Shutting down
