@@ -58,6 +58,9 @@
           // add source path objects to this array to auto replace them based on the theme.
           // By default images in the markdown file should be configured to use the light theme image.
           // This image will then be replaced by the dark theme image path when using dark theme.
+          const darkThemeImagePaths = [
+            {originalPath: '../images/12/ubuntuLVMblackarrows.PNG', darkThemePath: '../images/12/ubuntuLVM.PNG' }
+          ];
 
           const ThemeColor = localStorage.getItem('DARK_LIGHT_THEME');
           if (ThemeColor == 'dark'){
