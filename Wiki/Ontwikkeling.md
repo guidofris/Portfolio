@@ -19,7 +19,7 @@ deze tabel samengevat:
             <th colspan=2> Graduaat in het Systeem- en Netwerkbeheer </th>
         </tr>
         <tr>
-            <td colspan=2 align="left"> :arrow_down: &nbsp; Opleidingsspecifieke leerresultaten </th>
+            <td colspan=2 align="left"> :arrow_down: Opleidingsspecifieke leerresultaten </th>
         </tr>
     </thead>
     <tbody>
