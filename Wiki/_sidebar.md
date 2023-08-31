@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Home](/)
+* [Terug naar jouw portfolio](/)
 * [Introductie](./Wiki/Introductie.md)
 * [Logboek werkplekleren](./Wiki/Logboek.md)
 * [Overzicht Ontwikkelingsgesprekken](./Wiki/Ontwikkeling.md)
