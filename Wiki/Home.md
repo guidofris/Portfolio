@@ -1,6 +1,6 @@
-<p align="center"><img src="../Portfolio/images/pxl_beeld_1.jpg" width="60%"></p>
+<p align="center"><img src="../Portfolio/images/pxl_beeld_1.jpg" width="30%"></p>
 
-<img src="../Portfolio/images/logo_pxl_digital_witrand.png" width="40%">
+<img src="../Portfolio/images/logo_pxl_digital_witrand.png" width="20%">
 
 ## Graduaat Systemen en Netwerken
 
