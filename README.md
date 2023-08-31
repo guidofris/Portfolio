@@ -24,7 +24,7 @@ Het portfolio bestaat uit 5 delen:
 * Opdrachten
 * Reflectie
 
-Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk deel moet staan vind je terug onder in de <a rel="license" href="./Wiki/Home.md">wiki</a>
+Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk deel moet staan vind je terug onder in de <a rel="license" href="#/./Wiki/Home.md">wiki</a>
 
 ## Doelen <!-- {docsify-ignore} -->
 Een hulpmiddel aanbieden bij de reflectie op jouw leer- en werkervaring tijdens je werkplekleren. Je zal je volledige verloop in WPL in beeld brengen en zo je eigen leerproces kunnen zien. Op het einde van je graduaat zie je dan hoe het staat met je ontwikkeling, kan je al je keuzes verantwoorden en kan je je plannen toelichten voor de toekomst. 
